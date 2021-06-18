@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amrikarisma
-- 👀 I’m interested in internet marketing and programming
+- 👀 I’m interested in internet marketing and programming with WordPress and Laravel
 - 🌱 I’m currently learning Flutter and React
 - 💞️ I’m looking to collaborate on some private project and freelance
 - 📫 How to reach me at amrikarisma.id@gmail.com
