@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amrikarisma
-- 👀 I’m interested in internet marketing and programming with WordPress and Laravel
-- 🌱 I’m currently learning Flutter and React
+- 🧑‍💻 I'm a Fullstack Developer and interested in web programming with WordPress, Laravel and MySQL as well
+- 👀 I’m familiar with Docker and Linux environtment
+- 🌱 I’m currently learning Javascript framework (Vue & React) and Mobile Framework (Flutter)
 - 💞️ I’m looking to collaborate on some private project and freelance
 - 📫 How to reach me at amrikarisma.id@gmail.com
 
